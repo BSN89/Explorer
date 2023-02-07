@@ -1,0 +1,8 @@
+body {
+  text-align: center;
+  border: 3px double rgb(97, 97, 115);
+  padding-bottom: 20px;
+}
+.background {
+  background-color: bisque;
+}
